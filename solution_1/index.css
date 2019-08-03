@@ -1,0 +1,15 @@
+
+.btn{
+    margin-top:15px;
+}
+.red {
+    background-color: red;
+}
+.blue {
+    background-color: blue;
+}
+.col-md-4{
+    padding: 50px;
+    border:15px solid #fff
+    
+}
